@@ -1,0 +1,267 @@
+/*Author Name:badhon roy
+ Author info:badhon.pub38@gmail.com;
+ */
+ /*
+ ====INDEX====
+    1.Fusce at
+    2.Facilisis
+    3.Ante donec 
+    4.Blandit rhoncus  
+    5.Placera
+===============
+*/
+
+
+/* GLOBAL CSS */
+
+h1{
+
+}
+h2{
+
+}
+
+h3{
+
+
+}
+
+p{
+
+    
+}
+section {
+  padding: 150px 0;
+}
+
+/*GLOBAL CSS END */
+
+/*THEME CSS */
+
+/*nev part start */
+.nav-new{
+    background: #edeff1;
+}
+.nav-font li a{
+color: gray;
+font-family: 'Roboto regular', serif;
+font-size: 18px;
+
+}
+.js-scroll-trigger.active{
+    background: #dd4b2b;
+    color: #fff;
+    border-radius: 34px;
+    padding: 6px 6px;
+}
+/*nev part end */
+
+
+/* HADER PART START */
+.header-files{
+    background: url(../img/banner.png)center center;
+    background-size: cover;
+    display: block;
+}
+.header-files h1{
+    margin: 0 auto;
+    text-align: center;
+    color: #fff;
+    padding-top: 110px;
+    font-family: 'Roboto light', serif;
+    font-size: 72px;
+}
+.header-files p{
+    margin: 0 auto;
+    text-align: center;
+    color: #ffff;
+    padding-top: 20px;
+    font-family: 'Roboto bold', serif;
+    font-size: 30px;
+}
+
+.one{
+	    margin: 0 auto;
+    text-align: center;
+    padding-top: 123px;
+}
+.one h3{
+    color: #fff;
+    padding-top: 20px;
+    font-family: 'Roboto bold', serif;
+    font-size: 30px;
+}
+.one p{
+font-family: 'Roboto light', serif;
+    font-size: 15px;
+}
+.btn-cust{
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 68px;
+}
+/* HADER PART END */
+
+
+
+/* SECTION-ONE PART START */
+.sec-two{
+    padding-top: 80px;
+    background: #edeff1;
+}
+.sec-two h2{
+	    margin: 0 auto;
+    text-align: center;
+    padding-top: 24px;
+    font-family: 'Roboto bold', serif;
+    font-size: 30px;
+}
+.sec-two p{
+    font-family: 'Roboto light', serif;
+    font-size: 15px;
+}
+.two{
+padding-top: 50px;
+    text-align: center;
+}
+.btn-two{
+    border-radius: 31px;
+    padding: 10px 34px;
+}
+/* SECTION-ONE PART END */
+
+
+
+/* SECTION-TWO PART START */
+.ante-file{
+    background: url(../img/mid.png)center center;
+background-size: cover;
+background-repeat: no-repeat;
+}
+.ante-file h2{
+	     margin: 0 auto;
+    text-align: center;
+    color: #ffff;
+    margin-top: -127px;
+    font-family: 'Roboto bold', serif;
+    font-size: 30px;
+
+}
+.ante-file p {
+    margin: 0 auto;
+    text-align: center;
+    color: #ffff;
+    font-size: 11px;
+    padding-top: 10px;
+    font-family: 'Roboto light', serif;
+    font-size: 15px;
+}
+.from-control{
+    position: relative;
+    margin: 37px 6px;
+    width: 54%;
+    padding: 13px;
+    border-radius: 43px;
+    background: #ffffff7a;
+    left: 20%;
+    text-align: center;
+}
+.btn-three{
+        position: absolute;
+    padding: 14px 29px;
+    border-radius: 43px;
+    border: none;
+    background: #fff;
+    color: darkred;
+    top: 30%;
+    left: 60%;
+
+}
+::placeholder{
+    color: grey!important;
+}
+/* SECTION-TWO PART END */
+
+
+
+/* SECTION-THREE PART START */
+.part-one{
+    text-align: center;
+    padding-bottom: 30px;
+}
+.part-one h2{
+font-family: 'Roboto bold', serif;
+    font-size: 30px;
+}
+
+.part-one p{
+font-family: 'Roboto light', serif;
+    font-size: 16px;
+}
+.btn-four{
+    background: #dd4b2b;
+    width: 25%;
+    border-radius: 43px;
+    border: none;
+}
+.part-two{
+        text-align: center;
+        padding-top: 20px;
+   
+}
+.part-two h2{
+font-family: 'Roboto bold', serif;
+    font-size: 30px;
+}
+
+.part-two p{
+font-family: 'Roboto light', serif;
+    font-size: 16px;
+}
+.btn-five{
+    background: #4b4e73;
+    width: 25%;
+    border-radius: 43px;
+    border: none;
+}
+/* SECTION-THREE PART END */
+
+
+/* SECTION-FOUR PART START */
+.text-text{
+    background: #d75d0e;
+    padding-bottom: 29px;
+}
+.text-mama p{
+    text-align: center;
+    color: #ffff;
+    font-size: 18px;
+    font-family: 'Roboto regular', serif;
+    
+}
+/* SECTION-FOUR PART END */
+
+
+/* FOOTER PART START */
+.footer-mama{
+background: url(../img/footer.png);
+background-size: cover;
+background-repeat: no-repeat;
+padding-bottom: 100px;
+}
+
+
+}
+.footer-mama p{
+font-family: 'Roboto light', serif;
+    font-size: 16px;
+}
+.text-white {
+    color: #fff!important;
+    padding-top: 28px!important;
+}
+/* FOOTER PART END */
+
+
+
+
